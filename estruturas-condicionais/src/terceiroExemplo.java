@@ -2,7 +2,6 @@ public class terceiroExemplo {
         public static void main(String[] args) {
 
             // Segundo exemplo
-
             int nota = 100;
             String graduacao;
 
