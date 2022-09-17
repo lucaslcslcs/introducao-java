@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class quartoExemplo {
         public static void main(String[] args) {
             int[] numeros = { 9, 10, 12, 25, 2};
